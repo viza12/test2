@@ -1,2 +1,2 @@
 # Test2
-Just a test for Course 411. Private Repo
+Just a test for Course 411. Publick Repo
